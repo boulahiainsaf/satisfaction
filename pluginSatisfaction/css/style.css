@@ -1,0 +1,15 @@
+
+
+
+div .sa{
+    background-color: rgb(197, 197, 197) !important;
+    border-radius: 0.3rem !important;
+    border: #BBBBBB;
+
+}
+.notes-echelle label{
+    font-weight: bold;
+}
+div label{
+    font-weight: bold;
+}
